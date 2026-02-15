@@ -77,6 +77,7 @@ Electricity is the physical foundation of all digital systems.
 
 ---
 
+
 ## Summary
 
 Electricity is the movement of electric charge, typically electrons, through a conductor.
