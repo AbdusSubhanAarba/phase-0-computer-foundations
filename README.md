@@ -73,7 +73,7 @@ The objective is to develop bottom-up systems thinking before moving into progra
 
 Phase 0 Completed.
 
-Next Phase: Programming Foundations and Software Development.
+Next Phase: Computer Hardware & System Architecture
 
 ---
 
