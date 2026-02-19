@@ -67,8 +67,6 @@ This phase builds understanding of:
 
 The objective is to develop bottom-up systems thinking before moving into programming and software engineering.
 
----
-
 ## Status
 
 Phase 0 Completed.
